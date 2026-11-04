@@ -43,3 +43,11 @@ Run it on the machine that has `wg-quick` (not inside a container).
 - Only tunnels imported through the app are listed (listing `/etc/wireguard` needs root).
 - No remove button yet: delete the name from `~/.config/gtkguard/tunnels` and the file from `/etc/wireguard`.
 
+
+## License
+
+Copyright (C) 2026 Andrew Taylor.
+
+GTKGuard is free software: you can redistribute it and/or modify it under the terms of the
+GNU General Public License as published by the Free Software Foundation, either version 3 of the
+License, or (at your option) any later version. See [LICENSE](LICENSE).
