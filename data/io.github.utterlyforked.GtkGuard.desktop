@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=GTKGuard
+Comment=Bring WireGuard tunnels up and down
+Exec=gtkguard
+Icon=io.github.utterlyforked.GtkGuard
+Terminal=false
+Categories=Network;
+Keywords=vpn;wireguard;wg;
+StartupNotify=true
